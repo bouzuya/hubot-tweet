@@ -1,6 +1,6 @@
 {
   "name": "hubot-tweet",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "A Hubot script for posting a tweet",
   "main": "index.js",
   "scripts": {
